@@ -32,13 +32,13 @@ This project is a comprehensive **data analytics pipeline** that extracts, proce
 - Converted **data types** (e.g., price levels to numerical, review counts to integers).
 - Standardized **address formats and category classifications**.
 - Removed **duplicate businesses and inconsistencies** in dataset.
-- Saved **cleaned data into \*\*\*\***``.
+- Saved cleaned data.
 
 ### **🔹 Step 3: Database Storage (MySQL Integration)**
 
 - Designed an **optimized MySQL schema** for Yelp business data.
 - Established **a secure connection** to MySQL using **SQLAlchemy & PyMySQL**.
-- Inserted cleaned data into the **MySQL database (**``** and **``** table)**.
+- Inserted cleaned data into the **MySQL database**.
 - Validated successful data insertion using **SQL queries** in MySQL Workbench.
 
 ### **🔹 Step 4: Advanced SQL Queries for Business Insights**
@@ -77,4 +77,8 @@ To uncover deep insights, we implemented **complex SQL queries**:
 ## **📌 Key Business Insights Derived**
 
 ✅ **Which industries have the highest customer acquisition cost?** ✅ **Which business types retain the most valuable customers (high CLV)?** ✅ **Do higher-priced businesses have better customer ratings?** ✅ **Which states contribute the most revenue to Yelp businesses?** ✅ **Which businesses are trending based on review growth?** ✅ **What are the most consistent businesses with stable ratings?**
+
+## **📌 Conclusion**
+
+This project demonstrates expertise in data engineering, business intelligence, and analytics by combining Python, SQL, and Power BI into a scalable end-to-end solution. The insights generated help in understanding business performance, customer trends, and revenue growth across industries.
 
